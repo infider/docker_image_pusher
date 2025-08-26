@@ -1,6 +1,1 @@
-jumpserver/core:v4.10.5-ce
-jumpserver/chen:v4.10.5-ce
-jumpserver/web:v4.10.5-ce
-jumpserver/koko:v4.10.5-ce
-jumpserver/lion:v4.10.5-ce
 jumpserver/celery:v4.10.5-ce
