@@ -1,6 +1,6 @@
-mariadb:10.6
 jumpserver/core:v4.10.5-ce
-redis:7.0-bullseye] pulling
 jumpserver/chen:v4.10.5-ce
 jumpserver/web:v4.10.5-ce
 jumpserver/koko:v4.10.5-ce
+jumpserver/lion:v4.10.5-ce
+jumpserver/celery:v4.10.5-ce
